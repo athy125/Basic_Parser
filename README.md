@@ -22,8 +22,8 @@ This repository contains a C-like language parser implemented in Haskell using t
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/c-like-parser.git
-cd c-like-parser
+git clone https://github.com/athy125/Basic_Parser.git
+cd Basic_Parser
 ```
 
 2. Run the `Main.hs` file to parse the example C-like code:
